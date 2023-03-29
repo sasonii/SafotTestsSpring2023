@@ -1,0 +1,1 @@
+./tester.sh ./q1 InputFiles/ ExpectedFiles/ OutputFiles/ --diff
